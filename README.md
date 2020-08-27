@@ -1,2 +1,2 @@
 # go_todolist_server
-just one practive for Made In Lobby 
+just one practice for Made In Lobby 
